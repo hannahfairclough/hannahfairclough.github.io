@@ -20,14 +20,12 @@ body{
 	max-width: 600px;
 	margin: 0 auto; /* This to centre it */
 	padding:30px;
-	box-shadow: 10px 10px 10px 10px blue;
 }
 
 h1{
 	text-align: center;
 	margin:0;
 	font-family: 'Pacifico', cursive;
-	text-shadow: 5px 5px 20px purple
 }
 h2{
 	text-align: center;
